@@ -412,5 +412,14 @@
   "s": 320,
   "text": "委任の連鎖",
   "ts": 1792716877442
+ },
+ "mvokvtxvb2zo": {
+  "lec": "0929-tanaka",
+  "card": "3-2 OPA vs NPM",
+  "s": 74,
+  "e": 83,
+  "text": "OPA ⇄ NPM",
+  "cat": "key",
+  "ts": 1792978128211
  }
 }
