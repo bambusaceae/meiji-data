@@ -484,5 +484,122 @@
   "text": "英国の Next Steps 型の改革",
   "cat": "dig",
   "ts": 1792984539575
+ },
+ "mvqy68xz0a14": {
+  "lec": "0929-tanaka",
+  "card": "NPM批判",
+  "s": 132,
+  "e": 141,
+  "text": "公務員の「政治化」",
+  "cat": "dig",
+  "ts": 1793121381575
+ },
+ "mvqyi5478749": {
+  "lec": "0929-tanaka",
+  "card": "4-6 Purchaser/Providerの条件",
+  "s": 62,
+  "e": 100,
+  "text": "アウトソースの可否は、サービスの種類、地域の特性、時代の変化等によって決まる",
+  "cat": "key",
+  "ts": 1793121936487
+ },
+ "mvqyqfrjayit": {
+  "lec": "0929-tanaka",
+  "card": "NPMは政治改革",
+  "s": 92,
+  "e": 250,
+  "text": "マネジメントの側面：Decentralization（分権化）、Deregulation（規制緩和）、Delegation（委任）→ 効率性(Efficiency)政治化の側面：Centralization（集権化）、Coordination（調整）、Control（統制）→ 応答性(Responsiveness)",
+  "cat": "dig",
+  "ts": 1793122323535
+ },
+ "mvqyqvezklfp": {
+  "lec": "0929-tanaka",
+  "card": "NPMは政治改革",
+  "s": 333,
+  "e": 353,
+  "text": "官僚から政治家へ権力を移す政治改革である",
+  "cat": "key",
+  "ts": 1793122343819
+ },
+ "mvqytibp5gts": {
+  "lec": "0929-tanaka",
+  "card": "4-8 NPMは政治改革",
+  "s": 187,
+  "e": 233,
+  "text": "法律で枠組みを作り、政治家が主導し、官僚が執行する。応答性（Responsiveness）。",
+  "cat": "key",
+  "ts": 1793122466821
+ },
+ "mvqyuspm3w1q": {
+  "lec": "0929-tanaka",
+  "card": "4-8 NPMは政治改革",
+  "s": 169,
+  "e": 185,
+  "text": "→ Responsiveness",
+  "cat": "dig",
+  "ts": 1793122526938
+ },
+ "mvqzc6p08h7v": {
+  "lec": "0929-tanaka",
+  "card": "4-10 講師の見解",
+  "s": 101,
+  "e": 111,
+  "text": "官と民の根本的な相違",
+  "cat": "dig",
+  "ts": 1793123338212
+ },
+ "mvqze4hsu0jv": {
+  "lec": "0929-tanaka",
+  "card": "5-1 NPMに代わる仕組み",
+  "s": 4,
+  "e": 17,
+  "text": "NPMに代わる仕組みとは？",
+  "cat": "dig",
+  "ts": 1793123428672
+ },
+ "mvqzh57bccll": {
+  "lec": "0929-tanaka",
+  "card": "5-2 第一世代改革の成果",
+  "s": 173,
+  "e": 183,
+  "text": "深いガバナンスの価値",
+  "cat": "key",
+  "ts": 1793123569559
+ },
+ "mvqzi0pc7x92": {
+  "lec": "0929-tanaka",
+  "card": "5-2 第一世代改革の成果",
+  "s": 214,
+  "e": 277,
+  "text": "政府は企業と違い、憲法上の権限配分、議会への責任、法の支配の中で動く存在なので、企業のように自由に組織をいじれない、という意味",
+  "cat": "key",
+  "ts": 1793123610384
+ },
+ "mvqzw333vtx7": {
+  "lec": "0929-tanaka",
+  "card": "NPG",
+  "s": 262,
+  "e": 300,
+  "text": "サービスは政府だけでなく、企業・NPO・市民とのネットワークで共同生産される",
+  "cat": "key",
+  "ts": 1793124266655
+ },
+ "mvr0dpfno2pg": {
+  "lec": "0929-tanaka",
+  "card": "6-1 ポストNPMの模索",
+  "s": 190,
+  "e": 257,
+  "text": "NPM が外部化・市場化で効率を上げようとしたのに対し、ポストNPM は政府の中身（人材・リーダーシップ）を鍛え直す方向に戻ってきた。",
+  "cat": "key",
+  "ts": 1793125088771
+ },
+ "mvr0e4j6ofkg": {
+  "lec": "0929-tanaka",
+  "card": "ポストNPMの模索",
+  "s": 163,
+  "e": 239,
+  "text": "英国ブレア政権の改革（事例参照）は、ポストNPMの代表例とされる Joined-up Government（省庁横断の連携政府）の流れに位置づけられる。",
+  "cat": "key",
+  "ts": 1793125108338
  }
 }
